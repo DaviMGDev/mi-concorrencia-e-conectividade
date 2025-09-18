@@ -15,22 +15,6 @@ func main() {
 
 	server := protocol.NewServer(config.HOST, config.PORT)
 
-	/* 	// Register routes
-	   	server.Router.AddRoute("ping", handlers.HandlePing)
-	   	server.Router.AddRoute("REGISTER", handlers.HandleRegister)
-	   	server.Router.AddRoute("LOGIN", handlers.HandleLogin)
-	   	server.Router.AddRoute("CREATE_ROOM", handlers.HandleCreateRoom)
-	   	server.Router.AddRoute("JOIN_ROOM", handlers.HandleJoinRoom)
-	   	server.Router.AddRoute("LEAVE_ROOM", handlers.HandleLeaveRoom)
-	   	server.Router.AddRoute("READY", handlers.HandleReady)     // Note: GameService not fully implemented
-	   	server.Router.AddRoute("UNREADY", handlers.HandleUnready) // Note: GameService not fully implemented
-	   	server.Router.AddRoute("PLAY", handlers.HandlePlay)       // Note: GameService not fully implemented
-	   	server.Router.AddRoute("BUY", handlers.HandleBuyPackage)
-
-	   	// Chat routes
-	   	server.Router.AddRoute("send_message", handlers.HandleSendMessage)
-	   	server.Router.AddRoute("get_messages", handlers.HandleGetMessages) */
-
 	server.Router.AddRoute("ping", handlers.HandlePing)
 	server.Router.AddRoute("register", handlers.HandleRegister)
 	server.Router.AddRoute("login", handlers.HandleLogin)

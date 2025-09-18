@@ -6,8 +6,8 @@ import (
 )
 
 type GameService struct {
-	UserRepo *repositories.InMemoryRepository[domain.User]
-	RoomRepo *repositories.InMemoryRepository[domain.Room]
+	UserRepo repositories.RepositoryInterface[domain.User]
+	RoomRepo repositories.RepositoryInterface[domain.Room]
 }
 
 func (service *GameService) AddCardToRoom(roomID, userID string, card domain.Card) error {
@@ -15,7 +15,7 @@ func (service *GameService) AddCardToRoom(roomID, userID string, card domain.Car
 	if err != nil {
 		return err
 	}
-	if !(&room).UsersID.Has(userID) {
+	if !(&room).UsersID.Contains(userID) {
 		return nil // User not in room
 	}
 	room.Cards.Set(userID, card)
@@ -35,7 +35,7 @@ func (service *GameService) GetCardsInRoom(roomID string) (map[string]domain.Car
 	return cards, nil
 }
 
-func NewGameService(userRepo *repositories.InMemoryRepository[domain.User], roomRepo *repositories.InMemoryRepository[domain.Room]) *GameService {
+func NewGameService(userRepo repositories.RepositoryInterface[domain.User], roomRepo repositories.RepositoryInterface[domain.Room]) *GameService {
 	return &GameService{
 		UserRepo: userRepo,
 		RoomRepo: roomRepo,

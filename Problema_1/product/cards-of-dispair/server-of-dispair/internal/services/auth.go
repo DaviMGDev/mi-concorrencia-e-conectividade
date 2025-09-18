@@ -6,7 +6,7 @@ import (
 )
 
 type AuthService struct {
-	UserRepo *repositories.InMemoryRepository[domain.User]
+	UserRepo repositories.RepositoryInterface[domain.User]
 }
 
 func (service *AuthService) Register(user domain.User) error {
@@ -26,7 +26,7 @@ func (service *AuthService) Login(username, password string) (*domain.User, erro
 	return nil, nil
 }
 
-func NewAuthService(userRepo *repositories.InMemoryRepository[domain.User]) *AuthService {
+func NewAuthService(userRepo repositories.RepositoryInterface[domain.User]) *AuthService {
 	return &AuthService{
 		UserRepo: userRepo,
 	}

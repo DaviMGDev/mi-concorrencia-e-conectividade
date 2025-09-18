@@ -5,7 +5,7 @@ import "github.com/google/uuid"
 
 type Room struct {
 	ID       string
-	UsersID  *utils.Map[string, bool]
+	UsersID  *utils.Set[string]
 	Messages *utils.Map[string, chan string]
 	Cards    *utils.Map[string, Card]
 }
@@ -13,7 +13,7 @@ type Room struct {
 func NewRoom() *Room {
 	return &Room{
 		ID:       uuid.New().String(),
-		UsersID:  utils.NewMap[string, bool](),
+		UsersID:  utils.NewSet[string](),
 		Messages: utils.NewMap[string, chan string](),
 		Cards:    utils.NewMap[string, Card](),
 	}

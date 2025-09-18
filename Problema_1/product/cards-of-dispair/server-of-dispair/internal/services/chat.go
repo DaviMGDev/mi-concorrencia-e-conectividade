@@ -6,8 +6,8 @@ import (
 )
 
 type ChatService struct {
-	UserRepo *repositories.InMemoryRepository[domain.User]
-	RoomRepo *repositories.InMemoryRepository[domain.Room]
+	UserRepo repositories.RepositoryInterface[domain.User]
+	RoomRepo repositories.RepositoryInterface[domain.Room]
 }
 
 func (service *ChatService) SendMessage(roomID, userID, message string) error {
@@ -15,8 +15,8 @@ func (service *ChatService) SendMessage(roomID, userID, message string) error {
 	if err != nil {
 		return err
 	}
-	if !(&room).UsersID.Has(userID) {
-		return nil // User not in room
+	if !(&room).UsersID.Contains(userID) {
+		return nil
 	}
 	for _, key := range room.Messages.Keys() {
 		if key == userID {
@@ -33,15 +33,15 @@ func (service *ChatService) GetMessage(roomID, userID string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	if !(&room).UsersID.Has(userID) {
-		return "", nil // User not in room
+	if !(&room).UsersID.Contains(userID) {
+		return "", nil
 	}
 	messages, _ := room.Messages.Get(userID)
 	message := <-messages
 	return message, nil
 }
 
-func NewChatService(userRepo *repositories.InMemoryRepository[domain.User], roomRepo *repositories.InMemoryRepository[domain.Room]) *ChatService {
+func NewChatService(userRepo repositories.RepositoryInterface[domain.User], roomRepo repositories.RepositoryInterface[domain.Room]) *ChatService {
 	return &ChatService{
 		UserRepo: userRepo,
 		RoomRepo: roomRepo,

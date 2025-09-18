@@ -23,7 +23,7 @@ func (service *RoomService) JoinRoom(roomID, userID string) error {
 	if err != nil {
 		return err
 	}
-	room.UsersID.Set(userID, true)
+	room.UsersID.Add(userID)
 	room.Messages.Set(userID, make(chan string, 100))
 	return service.RoomRepo.Update(roomID, room)
 }
@@ -33,7 +33,7 @@ func (service *RoomService) LeaveRoom(roomID, userID string) error {
 	if err != nil {
 		return err
 	}
-	room.UsersID.Delete(userID)
+	room.UsersID.Remove(userID)
 	room.Messages.Delete(userID)
 	room.Cards.Delete(userID)
 	return service.RoomRepo.Update(roomID, room)
