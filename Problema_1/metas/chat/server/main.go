@@ -73,7 +73,6 @@ func handleConnection(conexao net.Conn) {
 		if erro != nil {
 			return
 		}
-
 		mensagemCompleta := conexao.RemoteAddr().String() + ": " + mensagem
 		mensagens <- mensagemCompleta
 	}
