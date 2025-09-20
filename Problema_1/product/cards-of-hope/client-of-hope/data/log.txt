@@ -1,0 +1,2298 @@
+CLIENT: 2025/09/19 00:26:51 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 00:42:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:42:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:43:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:45:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:14 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:15 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:16 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:17 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:18 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:19 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:20 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:46:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:50:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:57:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 00:58:05 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 00:58:06 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:07 logger.go:30: Failed to send message request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:07 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:08 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:09 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:09 logger.go:30: Failed to send message request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:10 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:11 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:12 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:13 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:14 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:15 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:15 logger.go:30: Failed to send join room request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:16 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 00:58:17 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:43366->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:02:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:02:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:14 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:15 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:16 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:17 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:18 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:19 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:20 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:03:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:04:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:05:10 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:05:11 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:45020->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:05:12 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:45020->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:05:13 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:45020->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:05:14 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:45020->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:09 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 01:06:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:06:47 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:06:48 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:49 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:50 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:51 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:52 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:53 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:54 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:55 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:56 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:57 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:58 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:06:59 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:00 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:01 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:02 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:03 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:04 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:05 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:06 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:07 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:08 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:09 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:07:10 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:50470->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:08:03 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 01:10:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:10:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:11:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:25:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:26:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:28:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:34:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:34:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:34:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:35:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:35:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:35:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:35:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:35:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:14 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:15 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:16 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:17 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:18 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:19 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:20 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:37:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:14 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:15 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:16 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:17 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:18 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:19 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:20 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:24 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:38:25 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:26 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:27 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:28 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:29 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:30 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:31 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:32 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:33 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:34 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:38082->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:38:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:38:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:39:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:40:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:53 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:54 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:55 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:57 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:58 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:41:59 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:00 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:01 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:02 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:03 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:04 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:05 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:06 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:07 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:08 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:09 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:10 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:11 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:12 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:13 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:14 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:15 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:16 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:17 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:18 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:19 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:20 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:21 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:22 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:23 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:24 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:25 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:26 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:27 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:28 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:29 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:30 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:31 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:32 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:33 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:34 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:35 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:36 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:37 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:38 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:39 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:40 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:41 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:42 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:43 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:44 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:45 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:46 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:47 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:49 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:50 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:51 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:42:52 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:49:48 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:49:56 logger.go:30: Fetch messages failed: Room does not exist or user not in room
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive leave room response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive message response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:50 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 01:51:51 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:52 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:53 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:54 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:55 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:56 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:57 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:58 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:51:59 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:52:00 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:52:01 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:52:02 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:60748->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 01:56:09 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 11:29:04 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 11:29:04 logger.go:30: Failed to receive fetch messages response: EOF
+CLIENT: 2025/09/19 11:29:05 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:58950->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 11:29:05 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:58940->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 11:29:06 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:58950->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 11:29:06 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:58940->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 11:29:07 logger.go:30: Failed to send fetch messages request: write tcp 127.0.0.1:58950->127.0.0.1:8080: write: broken pipe
+CLIENT: 2025/09/19 12:22:13 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 13:14:26 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 13:34:02 logger.go:30: Failed to connect to server at localhost:8080: dial tcp [::1]:8080: connect: connection refused
+CLIENT: 2025/09/19 21:58:15 logger.go:30: Failed to receive register response: EOF
+ui-debug: 2025/09/20 05:45:32 NewChat called
+ui-debug: 2025/09/20 05:45:32 Chat.Start called
+ui-debug: 2025/09/20 05:45:32 newModel called
+ui-debug: 2025/09/20 05:45:32 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 05:45:32 periodicFetch goroutine started.
+ui-debug: 2025/09/20 05:45:32 model.Init called
+ui-debug: 2025/09/20 05:45:34 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 05:45:36 Sending to Inputs channel: '/ping'
+ui-debug: 2025/09/20 05:47:03 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 05:47:03 Received message from Outputs channel: 'Pong! Server responded: ok'
+ui-debug: 2025/09/20 05:48:27 NewChat called
+ui-debug: 2025/09/20 05:48:27 Chat.Start called
+ui-debug: 2025/09/20 05:48:27 newModel called
+ui-debug: 2025/09/20 05:48:27 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 05:48:27 model.Init called
+ui-debug: 2025/09/20 05:48:27 periodicFetch goroutine started.
+ui-debug: 2025/09/20 05:48:29 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 05:52:02 NewChat called
+ui-debug: 2025/09/20 05:52:02 Chat.Start called
+ui-debug: 2025/09/20 05:52:02 newModel called
+ui-debug: 2025/09/20 05:52:02 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 05:52:02 periodicFetch goroutine started.
+ui-debug: 2025/09/20 05:52:02 Bubbletea program starting.
+ui-debug: 2025/09/20 05:52:02 model.Init called
+ui-debug: 2025/09/20 05:52:03 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 05:52:03 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 05:52:03 Update received chatMsg: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 05:52:12 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 05:52:12 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 05:52:12 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 05:52:21 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 05:52:21 Received message from Outputs channel: 'Room created successfully! Room ID: 2'
+ui-debug: 2025/09/20 05:52:21 Update received chatMsg: 'Room created successfully! Room ID: 2'
+ui-debug: 2025/09/20 05:52:22 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 05:52:22 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 05:52:22 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 05:52:26 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 05:52:26 Received message from Outputs channel: 'Your cards: paper (1 stars), scissors (1 stars), rock (1 stars)'
+ui-debug: 2025/09/20 05:52:26 Update received chatMsg: 'Your cards: paper (1 stars), scissors (1 stars), rock (1 stars)'
+ui-debug: 2025/09/20 05:52:29 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 05:52:29 Received message from Outputs channel: 'You bought a card package: rock (4 stars), paper (1 stars), scissors (3 stars).'
+ui-debug: 2025/09/20 05:52:29 Update received chatMsg: 'You bought a card package: rock (4 stars), paper (1 stars), scissors (3 stars).'
+ui-debug: 2025/09/20 05:52:36 NewChat called
+ui-debug: 2025/09/20 05:52:36 Chat.Start called
+ui-debug: 2025/09/20 05:52:36 newModel called
+ui-debug: 2025/09/20 05:52:36 periodicFetch goroutine started.
+ui-debug: 2025/09/20 05:52:36 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 05:52:36 Bubbletea program starting.
+ui-debug: 2025/09/20 05:52:36 model.Init called
+ui-debug: 2025/09/20 05:52:40 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 05:52:40 Received message from Outputs channel: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 05:52:40 Update received chatMsg: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 05:52:42 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 05:52:42 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 05:52:42 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 05:52:47 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 05:52:47 Received message from Outputs channel: 'You bought a card package: rock (2 stars), paper (1 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 05:52:47 Update received chatMsg: 'You bought a card package: rock (2 stars), paper (1 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 05:52:51 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 05:52:51 Received message from Outputs channel: 'You played a rock card with 4 stars.'
+ui-debug: 2025/09/20 05:52:51 Update received chatMsg: 'You played a rock card with 4 stars.'
+ui-debug: 2025/09/20 05:52:54 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 05:52:54 Received message from Outputs channel: 'You played a rock card with 2 stars.'
+ui-debug: 2025/09/20 05:52:54 Received message from Outputs channel: 'Opponent played a rock card with 4 stars.'
+ui-debug: 2025/09/20 05:52:54 Update received chatMsg: 'You played a rock card with 2 stars.'
+ui-debug: 2025/09/20 05:52:54 Update received chatMsg: 'Opponent played a rock card with 4 stars.'
+ui-debug: 2025/09/20 05:52:54 Received message from Outputs channel: 'You lose this round!'
+ui-debug: 2025/09/20 05:52:54 Update received chatMsg: 'You lose this round!'
+ui-debug: 2025/09/20 05:52:54 Received message from Outputs channel: 'Opponent played a rock card with 2 stars.'
+ui-debug: 2025/09/20 05:52:54 Update received chatMsg: 'Opponent played a rock card with 2 stars.'
+ui-debug: 2025/09/20 05:52:54 Received message from Outputs channel: 'You win this round!'
+ui-debug: 2025/09/20 05:52:54 Update received chatMsg: 'You win this round!'
+ui-debug: 2025/09/20 05:53:00 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 05:53:00 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 05:53:04 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:03:44 NewChat called
+ui-debug: 2025/09/20 06:03:44 Chat.Start called
+ui-debug: 2025/09/20 06:03:44 newModel called
+ui-debug: 2025/09/20 06:03:44 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:03:44 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:03:44 Bubbletea program starting.
+ui-debug: 2025/09/20 06:03:44 model.Init called
+ui-debug: 2025/09/20 06:03:49 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:03:49 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:03:49 Update received chatMsg: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:03:58 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:03:58 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:03:58 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:04:01 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 06:04:01 Received message from Outputs channel: 'Logged out successfully.'
+ui-debug: 2025/09/20 06:04:01 Update received chatMsg: 'Logged out successfully.'
+ui-debug: 2025/09/20 06:04:07 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:04:07 Chat.Close called
+ui-debug: 2025/09/20 06:04:07 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:04:07 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:09:49 NewChat called
+ui-debug: 2025/09/20 06:09:49 Chat.Start called
+ui-debug: 2025/09/20 06:09:49 newModel called
+ui-debug: 2025/09/20 06:09:49 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:09:49 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:09:49 Bubbletea program starting.
+ui-debug: 2025/09/20 06:09:49 model.Init called
+ui-debug: 2025/09/20 06:09:50 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:09:50 Chat.Close called
+ui-debug: 2025/09/20 06:09:50 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:09:50 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:09:50 Bubbletea program finished.
+ui-debug: 2025/09/20 06:09:50 Closing Done channel.
+ui-debug: 2025/09/20 06:09:55 NewChat called
+ui-debug: 2025/09/20 06:09:55 Chat.Start called
+ui-debug: 2025/09/20 06:09:55 newModel called
+ui-debug: 2025/09/20 06:09:55 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:09:55 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:09:55 Bubbletea program starting.
+ui-debug: 2025/09/20 06:09:55 model.Init called
+ui-debug: 2025/09/20 06:10:00 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:10:00 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:10:00 Update received chatMsg: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:10:10 Sending to Inputs channel: '/login asdasd 1231'
+ui-debug: 2025/09/20 06:10:10 Received message from Outputs channel: 'Invalid username or password'
+ui-debug: 2025/09/20 06:10:10 Update received chatMsg: 'Invalid username or password'
+ui-debug: 2025/09/20 06:10:20 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 06:10:20 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:10:20 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:10:23 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:10:23 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:10:23 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:10:27 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 06:10:27 Received message from Outputs channel: 'Room created successfully! Room ID: 3'
+ui-debug: 2025/09/20 06:10:27 Update received chatMsg: 'Room created successfully! Room ID: 3'
+ui-debug: 2025/09/20 06:10:31 Sending to Inputs channel: '/join 3'
+ui-debug: 2025/09/20 06:10:31 Received message from Outputs channel: 'Successfully joined room 3'
+ui-debug: 2025/09/20 06:10:31 Update received chatMsg: 'Successfully joined room 3'
+ui-debug: 2025/09/20 06:10:35 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:10:35 Received message from Outputs channel: 'You bought a card package: rock (4 stars), paper (4 stars), scissors (3 stars).'
+ui-debug: 2025/09/20 06:10:35 Update received chatMsg: 'You bought a card package: rock (4 stars), paper (4 stars), scissors (3 stars).'
+ui-debug: 2025/09/20 06:10:38 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 06:10:38 Received message from Outputs channel: 'Successfully left room 3'
+ui-debug: 2025/09/20 06:10:38 Update received chatMsg: 'Successfully left room 3'
+ui-debug: 2025/09/20 06:10:39 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:10:39 Chat.Close called
+ui-debug: 2025/09/20 06:10:39 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:10:39 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:10:39 Bubbletea program finished.
+ui-debug: 2025/09/20 06:10:39 Closing Done channel.
+ui-debug: 2025/09/20 06:12:07 NewChat called
+ui-debug: 2025/09/20 06:12:07 Chat.Start called
+ui-debug: 2025/09/20 06:12:07 newModel called
+ui-debug: 2025/09/20 06:12:07 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:12:07 Bubbletea program starting.
+ui-debug: 2025/09/20 06:12:07 model.Init called
+ui-debug: 2025/09/20 06:12:07 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:12:11 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:12:11 Received message from Outputs channel: 'Available commands:
+- /register <username> <password>
+- /login <username> <password>
+- /logout
+- /send <message>
+- /create <room_name>
+- /join <room_name>
+- /leave
+- /play <card>
+- /cards
+- /buy
+- /whoami
+- /whereami
+- /ping
+- /help
+- /quit'
+ui-debug: 2025/09/20 06:12:11 Update received chatMsg: 'Available commands:
+- /register <username> <password>
+- /login <username> <password>
+- /logout
+- /send <message>
+- /create <room_name>
+- /join <room_name>
+- /leave
+- /play <card>
+- /cards
+- /buy
+- /whoami
+- /whereami
+- /ping
+- /help
+- /quit'
+ui-debug: 2025/09/20 06:12:17 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 06:12:17 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:12:17 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:12:19 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:12:19 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:12:19 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:12:27 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:12:27 Chat.Close called
+ui-debug: 2025/09/20 06:12:27 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:12:27 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:12:27 Bubbletea program finished.
+ui-debug: 2025/09/20 06:12:27 Closing Done channel.
+ui-debug: 2025/09/20 06:13:41 NewChat called
+ui-debug: 2025/09/20 06:13:41 Chat.Start called
+ui-debug: 2025/09/20 06:13:41 newModel called
+ui-debug: 2025/09/20 06:13:41 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:13:41 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:13:41 Bubbletea program starting.
+ui-debug: 2025/09/20 06:13:41 model.Init called
+ui-debug: 2025/09/20 06:13:45 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:13:45 Received message from Outputs channel: 'Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:13:45 Update received chatMsg: 'Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:14:03 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:14:03 Chat.Close called
+ui-debug: 2025/09/20 06:14:03 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:14:03 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:14:03 Bubbletea program finished.
+ui-debug: 2025/09/20 06:14:03 Closing Done channel.
+ui-debug: 2025/09/20 06:15:10 NewChat called
+ui-debug: 2025/09/20 06:15:10 Chat.Start called
+ui-debug: 2025/09/20 06:15:10 newModel called
+ui-debug: 2025/09/20 06:15:10 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:15:10 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:15:10 Bubbletea program starting.
+ui-debug: 2025/09/20 06:15:10 model.Init called
+ui-debug: 2025/09/20 06:15:13 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:15:13 Received message from Outputs channel: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:15:13 Update received chatMsg: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:15:16 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:15:16 Chat.Close called
+ui-debug: 2025/09/20 06:15:16 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:15:16 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:15:16 Bubbletea program finished.
+ui-debug: 2025/09/20 06:15:16 Closing Done channel.
+ui-debug: 2025/09/20 06:17:41 NewChat called
+ui-debug: 2025/09/20 06:17:41 Chat.Start called
+ui-debug: 2025/09/20 06:17:41 newModel called
+ui-debug: 2025/09/20 06:17:41 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:17:41 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:17:41 Bubbletea program starting.
+ui-debug: 2025/09/20 06:17:41 model.Init called
+ui-debug: 2025/09/20 06:17:43 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:17:43 Chat.Close called
+ui-debug: 2025/09/20 06:17:43 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:17:43 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:17:43 Bubbletea program finished.
+ui-debug: 2025/09/20 06:17:43 Closing Done channel.
+ui-debug: 2025/09/20 06:17:54 NewChat called
+ui-debug: 2025/09/20 06:17:54 Chat.Start called
+ui-debug: 2025/09/20 06:17:54 newModel called
+ui-debug: 2025/09/20 06:17:54 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:17:54 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:17:54 Bubbletea program starting.
+ui-debug: 2025/09/20 06:17:54 model.Init called
+ui-debug: 2025/09/20 06:18:04 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:18:04 Received message from Outputs channel: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:18:04 Update received chatMsg: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:18:13 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 06:18:13 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:18:13 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:18:17 Sending to Inputs channel: '/login davi 321'
+ui-debug: 2025/09/20 06:18:17 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:18:17 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:18:20 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:18:20 Chat.Close called
+ui-debug: 2025/09/20 06:18:20 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:18:20 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:18:20 Bubbletea program finished.
+ui-debug: 2025/09/20 06:18:20 Closing Done channel.
+ui-debug: 2025/09/20 06:19:22 NewChat called
+ui-debug: 2025/09/20 06:19:22 Chat.Start called
+ui-debug: 2025/09/20 06:19:22 newModel called
+ui-debug: 2025/09/20 06:19:22 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:19:22 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:19:22 Bubbletea program starting.
+ui-debug: 2025/09/20 06:19:22 model.Init called
+ui-debug: 2025/09/20 06:19:27 Sending to Inputs channel: '/login davi 321'
+ui-debug: 2025/09/20 06:19:27 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:19:27 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:19:29 Sending to Inputs channel: '/whoami'
+ui-debug: 2025/09/20 06:19:29 Received message from Outputs channel: 'You are not logged in.'
+ui-debug: 2025/09/20 06:19:29 Update received chatMsg: 'You are not logged in.'
+ui-debug: 2025/09/20 06:19:55 Sending to Inputs channel: '/whereami'
+ui-debug: 2025/09/20 06:19:55 Received message from Outputs channel: 'You are not currently in a room.'
+ui-debug: 2025/09/20 06:19:55 Update received chatMsg: 'You are not currently in a room.'
+ui-debug: 2025/09/20 06:20:00 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:20:00 Chat.Close called
+ui-debug: 2025/09/20 06:20:00 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:20:00 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:20:00 Bubbletea program finished.
+ui-debug: 2025/09/20 06:20:00 Closing Done channel.
+ui-debug: 2025/09/20 06:20:10 NewChat called
+ui-debug: 2025/09/20 06:20:10 Chat.Start called
+ui-debug: 2025/09/20 06:20:10 newModel called
+ui-debug: 2025/09/20 06:20:10 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:20:10 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:20:10 Bubbletea program starting.
+ui-debug: 2025/09/20 06:20:10 model.Init called
+ui-debug: 2025/09/20 06:20:20 Sending to Inputs channel: '/register joao 123'
+ui-debug: 2025/09/20 06:20:20 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:20:20 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:20:27 Sending to Inputs channel: '/login joao 321'
+ui-debug: 2025/09/20 06:20:27 Received message from Outputs channel: 'Logged in successfully as joao'
+ui-debug: 2025/09/20 06:20:27 Update received chatMsg: 'Logged in successfully as joao'
+ui-debug: 2025/09/20 06:20:29 Sending to Inputs channel: '/whoami'
+ui-debug: 2025/09/20 06:20:29 Received message from Outputs channel: 'You are not logged in.'
+ui-debug: 2025/09/20 06:20:29 Update received chatMsg: 'You are not logged in.'
+ui-debug: 2025/09/20 06:27:42 Bubbletea program finished.
+ui-debug: 2025/09/20 06:27:42 Closing Done channel.
+ui-debug: 2025/09/20 06:27:49 NewChat called
+ui-debug: 2025/09/20 06:27:49 Chat.Start called
+ui-debug: 2025/09/20 06:27:49 newModel called
+ui-debug: 2025/09/20 06:27:49 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:27:49 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:27:49 Bubbletea program starting.
+ui-debug: 2025/09/20 06:27:49 model.Init called
+ui-debug: 2025/09/20 06:27:53 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 06:27:53 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:27:53 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:28:00 Sending to Inputs channel: '/login davi 321'
+ui-debug: 2025/09/20 06:28:00 Received message from Outputs channel: 'Invalid username or password'
+ui-debug: 2025/09/20 06:28:00 Update received chatMsg: 'Invalid username or password'
+ui-debug: 2025/09/20 06:28:05 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:28:05 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:28:05 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:28:10 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:28:10 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:28:10 Update received chatMsg: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:28:20 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:28:20 Received message from Outputs channel: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:28:20 Update received chatMsg: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:28:28 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:28:28 Chat.Close called
+ui-debug: 2025/09/20 06:28:28 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:28:28 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:28:28 Bubbletea program finished.
+ui-debug: 2025/09/20 06:28:28 Closing Done channel.
+ui-debug: 2025/09/20 06:32:34 NewChat called
+ui-debug: 2025/09/20 06:32:34 Chat.Start called
+ui-debug: 2025/09/20 06:32:34 newModel called
+ui-debug: 2025/09/20 06:32:34 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:32:34 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:32:34 Bubbletea program starting.
+ui-debug: 2025/09/20 06:32:34 model.Init called
+ui-debug: 2025/09/20 06:32:39 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:32:39 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:32:39 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:32:42 Sending to Inputs channel: '/help'
+ui-debug: 2025/09/20 06:32:42 Received message from Outputs channel: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:32:42 Update received chatMsg: 'Note: Any text that does not start with / is treated as a /send command.
+
+  Available commands:
+
+  Auth:
+    /register <user> <pass>  - Register a new user.
+    /login <user> <pass>     - Log in with an existing user.
+    /logout                  - Log out from the current session.
+
+  Chat & Rooms:
+    /send <message>          - Send a message to the current room.
+    /create <room_name>      - Create a new chat room.
+    /join <room_name>        - Join an existing chat room.
+    /leave                   - Leave the current room.
+
+  Game:
+    /play <card>             - Play a card (rock, paper, scissors).
+    /cards                   - Show your current cards.
+    /buy                     - Buy a new package of cards.
+
+  Misc:
+    /whoami                  - Show your current user information.
+    /whereami                - Show the room you are currently in.
+    /ping                    - Check the connection with the server.
+    /help                    - Show this help message.
+    /quit                    - Exit the application.'
+ui-debug: 2025/09/20 06:32:50 Sending to Inputs channel: '/uai...'
+ui-debug: 2025/09/20 06:32:50 Received message from Outputs channel: 'Unknown command: uai...'
+ui-debug: 2025/09/20 06:32:50 Update received chatMsg: 'Unknown command: uai...'
+ui-debug: 2025/09/20 06:32:53 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:32:53 Chat.Close called
+ui-debug: 2025/09/20 06:32:53 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:32:53 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:32:53 Bubbletea program finished.
+ui-debug: 2025/09/20 06:32:53 Closing Done channel.
+ui-debug: 2025/09/20 06:37:21 NewChat called
+ui-debug: 2025/09/20 06:37:21 Chat.Start called
+ui-debug: 2025/09/20 06:37:21 newModel called
+ui-debug: 2025/09/20 06:37:21 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:37:21 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:37:21 Bubbletea program starting.
+ui-debug: 2025/09/20 06:37:21 model.Init called
+ui-debug: 2025/09/20 06:37:30 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 06:37:30 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:37:30 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:37:36 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:37:36 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:37:36 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:37:43 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 06:37:43 Received message from Outputs channel: 'Logged out successfully.'
+ui-debug: 2025/09/20 06:37:43 Update received chatMsg: 'Logged out successfully.'
+ui-debug: 2025/09/20 06:37:57 NewChat called
+ui-debug: 2025/09/20 06:37:57 Chat.Start called
+ui-debug: 2025/09/20 06:37:57 newModel called
+ui-debug: 2025/09/20 06:37:57 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:37:57 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:37:57 Bubbletea program starting.
+ui-debug: 2025/09/20 06:37:57 model.Init called
+ui-debug: 2025/09/20 06:38:03 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 06:38:04 Received message from Outputs channel: 'Registration successful!'
+ui-debug: 2025/09/20 06:38:04 Update received chatMsg: 'Registration successful!'
+ui-debug: 2025/09/20 06:38:07 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 06:38:07 Received message from Outputs channel: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 06:38:07 Update received chatMsg: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 06:38:09 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 06:38:09 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 06:38:09 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 06:38:12 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:38:12 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:38:12 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:38:15 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:38:15 Received message from Outputs channel: 'You must be logged in to join a room.'
+ui-debug: 2025/09/20 06:38:15 Update received chatMsg: 'You must be logged in to join a room.'
+ui-debug: 2025/09/20 06:38:24 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:38:24 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:38:24 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:38:26 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:38:26 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:38:26 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:38:28 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:38:28 Received message from Outputs channel: 'davi: olá'
+ui-debug: 2025/09/20 06:38:28 Update received chatMsg: 'davi: olá'
+ui-debug: 2025/09/20 06:38:30 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:38:31 Received message from Outputs channel: 'ivad: olá'
+ui-debug: 2025/09/20 06:38:31 Update received chatMsg: 'ivad: olá'
+ui-debug: 2025/09/20 06:38:35 Sending to Inputs channel: 'krl que incrivel'
+ui-debug: 2025/09/20 06:38:36 Received message from Outputs channel: 'davi: krl que incrivel'
+ui-debug: 2025/09/20 06:38:36 Update received chatMsg: 'davi: krl que incrivel'
+ui-debug: 2025/09/20 06:38:39 Sending to Inputs channel: '/gozei'
+ui-debug: 2025/09/20 06:38:39 Received message from Outputs channel: 'Unknown command: gozei'
+ui-debug: 2025/09/20 06:38:39 Update received chatMsg: 'Unknown command: gozei'
+ui-debug: 2025/09/20 06:38:50 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:38:50 Chat.Close called
+ui-debug: 2025/09/20 06:38:50 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:38:50 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:38:50 Bubbletea program finished.
+ui-debug: 2025/09/20 06:38:50 Closing Done channel.
+ui-debug: 2025/09/20 06:38:52 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:38:52 Chat.Close called
+ui-debug: 2025/09/20 06:38:52 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:38:52 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:38:52 Bubbletea program finished.
+ui-debug: 2025/09/20 06:38:52 Closing Done channel.
+ui-debug: 2025/09/20 06:39:48 NewChat called
+ui-debug: 2025/09/20 06:39:48 Chat.Start called
+ui-debug: 2025/09/20 06:39:48 newModel called
+ui-debug: 2025/09/20 06:39:48 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:39:48 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:39:48 Bubbletea program starting.
+ui-debug: 2025/09/20 06:39:48 model.Init called
+ui-debug: 2025/09/20 06:39:57 Sending to Inputs channel: 'login davi 123'
+ui-debug: 2025/09/20 06:39:57 Received message from Outputs channel: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:39:57 Update received chatMsg: 'You must be logged in and in a room to send messages.'
+ui-debug: 2025/09/20 06:40:04 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:40:04 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:40:04 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:40:06 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:40:06 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:40:06 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:40:11 Sending to Inputs channel: 'tá, funcionou'
+ui-debug: 2025/09/20 06:40:17 NewChat called
+ui-debug: 2025/09/20 06:40:17 Chat.Start called
+ui-debug: 2025/09/20 06:40:17 newModel called
+ui-debug: 2025/09/20 06:40:17 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:40:17 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:40:17 Bubbletea program starting.
+ui-debug: 2025/09/20 06:40:17 model.Init called
+ui-debug: 2025/09/20 06:40:22 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 06:40:22 Received message from Outputs channel: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 06:40:22 Update received chatMsg: 'Logged in successfully as ivad'
+ui-debug: 2025/09/20 06:40:25 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:40:25 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:40:25 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:40:30 Sending to Inputs channel: 'olá'
+ui-debug: 2025/09/20 06:40:30 Received message from Outputs channel: 'ivad: olá'
+ui-debug: 2025/09/20 06:40:30 Update received chatMsg: 'ivad: olá'
+ui-debug: 2025/09/20 06:40:37 Sending to Inputs channel: 'maravilhoso isso aq'
+ui-debug: 2025/09/20 06:40:37 Received message from Outputs channel: 'davi: maravilhoso isso aq'
+ui-debug: 2025/09/20 06:40:37 Update received chatMsg: 'davi: maravilhoso isso aq'
+ui-debug: 2025/09/20 06:40:40 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 06:40:40 Received message from Outputs channel: 'Your cards: paper (1 stars), scissors (1 stars), rock (1 stars)'
+ui-debug: 2025/09/20 06:40:40 Update received chatMsg: 'Your cards: paper (1 stars), scissors (1 stars), rock (1 stars)'
+ui-debug: 2025/09/20 06:40:47 Sending to Inputs channel: '/play paper'
+ui-debug: 2025/09/20 06:40:47 Received message from Outputs channel: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 06:40:47 Update received chatMsg: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 06:40:51 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 06:40:51 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 06:40:51 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 06:40:51 Received message from Outputs channel: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 06:40:51 Received message from Outputs channel: 'You lose this round!'
+ui-debug: 2025/09/20 06:40:51 Update received chatMsg: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 06:40:51 Update received chatMsg: 'You lose this round!'
+ui-debug: 2025/09/20 06:40:52 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 06:40:52 Received message from Outputs channel: 'You win this round!'
+ui-debug: 2025/09/20 06:40:52 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 06:40:52 Update received chatMsg: 'You win this round!'
+ui-debug: 2025/09/20 06:41:05 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:05 Received message from Outputs channel: 'You bought a card package: rock (4 stars), paper (1 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:05 Update received chatMsg: 'You bought a card package: rock (4 stars), paper (1 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:08 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:23 NewChat called
+ui-debug: 2025/09/20 06:41:23 Chat.Start called
+ui-debug: 2025/09/20 06:41:23 newModel called
+ui-debug: 2025/09/20 06:41:23 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:41:23 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:41:23 Bubbletea program starting.
+ui-debug: 2025/09/20 06:41:23 model.Init called
+ui-debug: 2025/09/20 06:41:25 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:25 Received message from Outputs channel: 'You bought a card package: rock (4 stars), paper (4 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:25 Update received chatMsg: 'You bought a card package: rock (4 stars), paper (4 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:30 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:41:30 Chat.Close called
+ui-debug: 2025/09/20 06:41:30 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:41:30 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:41:30 Bubbletea program finished.
+ui-debug: 2025/09/20 06:41:30 Closing Done channel.
+ui-debug: 2025/09/20 06:41:34 NewChat called
+ui-debug: 2025/09/20 06:41:34 Chat.Start called
+ui-debug: 2025/09/20 06:41:34 newModel called
+ui-debug: 2025/09/20 06:41:34 periodicFetch goroutine started.
+ui-debug: 2025/09/20 06:41:34 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 06:41:34 Bubbletea program starting.
+ui-debug: 2025/09/20 06:41:34 model.Init called
+ui-debug: 2025/09/20 06:41:40 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 06:41:40 Received message from Outputs channel: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:41:40 Update received chatMsg: 'Logged in successfully as davi'
+ui-debug: 2025/09/20 06:41:42 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 06:41:42 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:41:42 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 06:41:45 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:45 Received message from Outputs channel: 'You bought a card package: rock (3 stars), paper (1 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 06:41:45 Update received chatMsg: 'You bought a card package: rock (3 stars), paper (1 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 06:41:48 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:48 Received message from Outputs channel: 'You bought a card package: rock (1 stars), paper (1 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 06:41:48 Update received chatMsg: 'You bought a card package: rock (1 stars), paper (1 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 06:41:51 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 06:41:51 Received message from Outputs channel: 'You bought a card package: rock (5 stars), paper (5 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:51 Update received chatMsg: 'You bought a card package: rock (5 stars), paper (5 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 06:41:58 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 06:41:58 Received message from Outputs channel: 'You played a rock card with 5 stars.'
+ui-debug: 2025/09/20 06:41:58 Update received chatMsg: 'You played a rock card with 5 stars.'
+ui-debug: 2025/09/20 06:42:03 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 06:42:03 Received message from Outputs channel: 'You played a rock card with 4 stars.'
+ui-debug: 2025/09/20 06:42:03 Update received chatMsg: 'You played a rock card with 4 stars.'
+ui-debug: 2025/09/20 06:42:03 Received message from Outputs channel: 'Opponent played a rock card with 5 stars.'
+ui-debug: 2025/09/20 06:42:03 Received message from Outputs channel: 'You lose this round!'
+ui-debug: 2025/09/20 06:42:03 Update received chatMsg: 'Opponent played a rock card with 5 stars.'
+ui-debug: 2025/09/20 06:42:03 Update received chatMsg: 'You lose this round!'
+ui-debug: 2025/09/20 06:42:03 Received message from Outputs channel: 'Opponent played a rock card with 4 stars.'
+ui-debug: 2025/09/20 06:42:03 Received message from Outputs channel: 'You win this round!'
+ui-debug: 2025/09/20 06:42:03 Update received chatMsg: 'Opponent played a rock card with 4 stars.'
+ui-debug: 2025/09/20 06:42:03 Update received chatMsg: 'You win this round!'
+ui-debug: 2025/09/20 06:42:22 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:42:22 Chat.Close called
+ui-debug: 2025/09/20 06:42:22 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:42:22 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:42:22 Bubbletea program finished.
+ui-debug: 2025/09/20 06:42:22 Closing Done channel.
+ui-debug: 2025/09/20 06:42:39 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 06:42:39 Chat.Close called
+ui-debug: 2025/09/20 06:42:39 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 06:42:39 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 06:42:39 Bubbletea program finished.
+ui-debug: 2025/09/20 06:42:39 Closing Done channel.
+ui-debug: 2025/09/20 08:24:32 NewChat called
+ui-debug: 2025/09/20 08:24:32 Chat.Start called
+ui-debug: 2025/09/20 08:24:32 newModel called
+ui-debug: 2025/09/20 08:24:32 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:24:32 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:24:32 Bubbletea program starting.
+ui-debug: 2025/09/20 08:24:32 model.Init called
+ui-debug: 2025/09/20 08:24:37 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 08:24:37 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:24:37 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:24:40 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 08:24:40 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:24:40 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:24:49 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:24:49 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:24:49 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:24:53 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:24:53 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:24:53 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:24:58 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:24:58 Received message from Outputs channel: 'You bought a card package: rock (2 stars), paper (5 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:24:58 Update received chatMsg: 'You bought a card package: rock (2 stars), paper (5 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:25:01 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:25:01 Received message from Outputs channel: 'You bought a card package: rock (1 stars), paper (3 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 08:25:01 Update received chatMsg: 'You bought a card package: rock (1 stars), paper (3 stars), scissors (5 stars).'
+ui-debug: 2025/09/20 08:25:09 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:25:09 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:25:09 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:25:19 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:25:19 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:25:24 NewChat called
+ui-debug: 2025/09/20 08:25:24 Chat.Start called
+ui-debug: 2025/09/20 08:25:24 newModel called
+ui-debug: 2025/09/20 08:25:24 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:25:24 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:25:24 Bubbletea program starting.
+ui-debug: 2025/09/20 08:25:24 model.Init called
+ui-debug: 2025/09/20 08:25:28 NewChat called
+ui-debug: 2025/09/20 08:25:28 Chat.Start called
+ui-debug: 2025/09/20 08:25:28 newModel called
+ui-debug: 2025/09/20 08:25:28 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:25:28 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:25:28 Bubbletea program starting.
+ui-debug: 2025/09/20 08:25:28 model.Init called
+ui-debug: 2025/09/20 08:25:41 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 08:25:41 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:25:41 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:25:50 Sending to Inputs channel: '/register vida 123'
+ui-debug: 2025/09/20 08:25:50 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:25:50 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:25:53 Sending to Inputs channel: '/login vida 123'
+ui-debug: 2025/09/20 08:25:53 Received message from Outputs channel: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:25:53 Update received chatMsg: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:25:58 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 08:25:58 Received message from Outputs channel: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:25:58 Update received chatMsg: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:26:03 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:26:04 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:26:04 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:26:06 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:26:06 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:26:06 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:26:09 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 08:26:09 Received message from Outputs channel: 'ivad: ola'
+ui-debug: 2025/09/20 08:26:09 Update received chatMsg: 'ivad: ola'
+ui-debug: 2025/09/20 08:26:10 Received message from Outputs channel: 'ivad: ola'
+ui-debug: 2025/09/20 08:26:10 Update received chatMsg: 'ivad: ola'
+ui-debug: 2025/09/20 08:26:11 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 08:26:12 Received message from Outputs channel: 'vida: ola'
+ui-debug: 2025/09/20 08:26:12 Update received chatMsg: 'vida: ola'
+ui-debug: 2025/09/20 08:26:12 Received message from Outputs channel: 'vida: ola'
+ui-debug: 2025/09/20 08:26:12 Update received chatMsg: 'vida: ola'
+ui-debug: 2025/09/20 08:26:15 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 08:26:15 Received message from Outputs channel: 'davi: ola'
+ui-debug: 2025/09/20 08:26:15 Update received chatMsg: 'davi: ola'
+ui-debug: 2025/09/20 08:26:15 Received message from Outputs channel: 'davi: ola'
+ui-debug: 2025/09/20 08:26:15 Update received chatMsg: 'davi: ola'
+ui-debug: 2025/09/20 08:26:21 Sending to Inputs channel: '/play'
+ui-debug: 2025/09/20 08:26:21 Received message from Outputs channel: 'Usage: /play <card>'
+ui-debug: 2025/09/20 08:26:21 Update received chatMsg: 'Usage: /play <card>'
+ui-debug: 2025/09/20 08:26:25 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:26:25 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:26:25 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:26:30 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:26:30 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:26:30 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:26:30 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:26:30 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:26:30 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:26:30 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:26:45 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:26:45 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:26:45 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:26:49 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:26:49 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:26:49 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:26:51 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:26:51 Chat.Close called
+ui-debug: 2025/09/20 08:26:51 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:26:51 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:26:51 Bubbletea program finished.
+ui-debug: 2025/09/20 08:26:51 Closing Done channel.
+ui-debug: 2025/09/20 08:26:55 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:26:55 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:26:55 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:26:57 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:26:57 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:26:57 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:26:58 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:26:58 Chat.Close called
+ui-debug: 2025/09/20 08:26:58 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:26:58 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:26:58 Bubbletea program finished.
+ui-debug: 2025/09/20 08:26:58 Closing Done channel.
+ui-debug: 2025/09/20 08:27:03 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:27:03 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:27:03 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:27:05 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:27:05 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:27:05 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:27:07 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:27:07 Chat.Close called
+ui-debug: 2025/09/20 08:27:07 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:27:07 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:27:07 Bubbletea program finished.
+ui-debug: 2025/09/20 08:27:07 Closing Done channel.
+ui-debug: 2025/09/20 08:32:12 NewChat called
+ui-debug: 2025/09/20 08:32:12 Chat.Start called
+ui-debug: 2025/09/20 08:32:12 newModel called
+ui-debug: 2025/09/20 08:32:12 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:32:12 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:32:12 Bubbletea program starting.
+ui-debug: 2025/09/20 08:32:12 model.Init called
+ui-debug: 2025/09/20 08:32:14 NewChat called
+ui-debug: 2025/09/20 08:32:14 Chat.Start called
+ui-debug: 2025/09/20 08:32:14 newModel called
+ui-debug: 2025/09/20 08:32:14 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:32:14 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:32:14 Bubbletea program starting.
+ui-debug: 2025/09/20 08:32:14 model.Init called
+ui-debug: 2025/09/20 08:32:17 NewChat called
+ui-debug: 2025/09/20 08:32:17 Chat.Start called
+ui-debug: 2025/09/20 08:32:17 newModel called
+ui-debug: 2025/09/20 08:32:17 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:32:17 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:32:17 Bubbletea program starting.
+ui-debug: 2025/09/20 08:32:17 model.Init called
+ui-debug: 2025/09/20 08:32:22 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 08:32:22 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:22 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:26 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 08:32:26 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:26 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:31 Sending to Inputs channel: '/register vida 123'
+ui-debug: 2025/09/20 08:32:31 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:31 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:32:34 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 08:32:34 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:32:34 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:32:38 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 08:32:38 Received message from Outputs channel: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:32:38 Update received chatMsg: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:32:42 Sending to Inputs channel: '/vida 123'
+ui-debug: 2025/09/20 08:32:42 Received message from Outputs channel: 'Comando desconhecido: vida'
+ui-debug: 2025/09/20 08:32:42 Update received chatMsg: 'Comando desconhecido: vida'
+ui-debug: 2025/09/20 08:32:46 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:32:46 Received message from Outputs channel: 'You must be logged in to create a room.'
+ui-debug: 2025/09/20 08:32:46 Update received chatMsg: 'You must be logged in to create a room.'
+ui-debug: 2025/09/20 08:32:49 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:32:49 Received message from Outputs channel: 'You must be logged in to join a room.'
+ui-debug: 2025/09/20 08:32:49 Update received chatMsg: 'You must be logged in to join a room.'
+ui-debug: 2025/09/20 08:32:51 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:32:51 Received message from Outputs channel: 'Room does not exist'
+ui-debug: 2025/09/20 08:32:51 Update received chatMsg: 'Room does not exist'
+ui-debug: 2025/09/20 08:33:08 Sending to Inputs channel: '/login vida 123'
+ui-debug: 2025/09/20 08:33:08 Received message from Outputs channel: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:33:08 Update received chatMsg: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:33:13 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:33:13 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:33:13 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:33:16 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:33:16 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:33:16 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:33:19 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:33:19 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:33:19 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:33:24 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:33:24 Received message from Outputs channel: 'Room does not exist'
+ui-debug: 2025/09/20 08:33:24 Update received chatMsg: 'Room does not exist'
+ui-debug: 2025/09/20 08:33:28 Sending to Inputs channel: '/whereami'
+ui-debug: 2025/09/20 08:33:28 Received message from Outputs channel: 'You are in room: 1'
+ui-debug: 2025/09/20 08:33:28 Update received chatMsg: 'You are in room: 1'
+ui-debug: 2025/09/20 08:33:33 Sending to Inputs channel: '/whereami'
+ui-debug: 2025/09/20 08:33:33 Received message from Outputs channel: 'You are not currently in a room.'
+ui-debug: 2025/09/20 08:33:33 Update received chatMsg: 'You are not currently in a room.'
+ui-debug: 2025/09/20 08:33:49 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 08:33:50 Received message from Outputs channel: 'vida: ola'
+ui-debug: 2025/09/20 08:33:50 Update received chatMsg: 'vida: ola'
+ui-debug: 2025/09/20 08:33:51 Sending to Inputs channel: 'ola'
+ui-debug: 2025/09/20 08:33:52 Received message from Outputs channel: 'ivad: ola'
+ui-debug: 2025/09/20 08:33:52 Update received chatMsg: 'ivad: ola'
+ui-debug: 2025/09/20 08:34:02 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:34:02 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:34:02 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:34:05 Sending to Inputs channel: '/play paper'
+ui-debug: 2025/09/20 08:34:05 Received message from Outputs channel: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:05 Update received chatMsg: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:05 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:34:05 Received message from Outputs channel: 'You win this round!'
+ui-debug: 2025/09/20 08:34:05 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:34:05 Update received chatMsg: 'You win this round!'
+ui-debug: 2025/09/20 08:34:06 Received message from Outputs channel: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:06 Received message from Outputs channel: 'You lose this round!'
+ui-debug: 2025/09/20 08:34:06 Update received chatMsg: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:06 Update received chatMsg: 'You lose this round!'
+ui-debug: 2025/09/20 08:34:09 Sending to Inputs channel: '/play paper'
+ui-debug: 2025/09/20 08:34:09 Received message from Outputs channel: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:09 Update received chatMsg: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:12 Sending to Inputs channel: '/play paper'
+ui-debug: 2025/09/20 08:34:12 Received message from Outputs channel: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:12 Update received chatMsg: 'You played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:12 Received message from Outputs channel: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:12 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:34:12 Update received chatMsg: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:12 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:34:13 Received message from Outputs channel: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:13 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:34:13 Update received chatMsg: 'Opponent played a paper card with 1 stars.'
+ui-debug: 2025/09/20 08:34:13 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:34:28 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:34:28 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:34:28 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:34:30 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:34:30 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:34:30 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:36:41 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:36:41 Chat.Close called
+ui-debug: 2025/09/20 08:36:41 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:36:41 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:36:41 Bubbletea program finished.
+ui-debug: 2025/09/20 08:36:41 Closing Done channel.
+ui-debug: 2025/09/20 08:36:43 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:36:43 Chat.Close called
+ui-debug: 2025/09/20 08:36:43 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:36:43 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:36:43 Bubbletea program finished.
+ui-debug: 2025/09/20 08:36:43 Closing Done channel.
+ui-debug: 2025/09/20 08:36:44 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:36:44 Chat.Close called
+ui-debug: 2025/09/20 08:36:44 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:36:44 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:36:44 Bubbletea program finished.
+ui-debug: 2025/09/20 08:36:44 Closing Done channel.
+ui-debug: 2025/09/20 08:36:50 NewChat called
+ui-debug: 2025/09/20 08:36:50 Chat.Start called
+ui-debug: 2025/09/20 08:36:50 newModel called
+ui-debug: 2025/09/20 08:36:50 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:36:50 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:36:50 Bubbletea program starting.
+ui-debug: 2025/09/20 08:36:50 model.Init called
+ui-debug: 2025/09/20 08:36:54 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 08:36:54 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:36:54 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:36:57 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 08:36:57 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:36:57 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:37:01 Sending to Inputs channel: '/register vida 123'
+ui-debug: 2025/09/20 08:37:01 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:37:01 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:37:04 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 08:37:04 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:37:04 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:37:06 NewChat called
+ui-debug: 2025/09/20 08:37:06 Chat.Start called
+ui-debug: 2025/09/20 08:37:06 newModel called
+ui-debug: 2025/09/20 08:37:06 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:37:06 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:37:06 Bubbletea program starting.
+ui-debug: 2025/09/20 08:37:06 model.Init called
+ui-debug: 2025/09/20 08:37:12 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 08:37:12 Received message from Outputs channel: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:37:12 Update received chatMsg: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:37:14 NewChat called
+ui-debug: 2025/09/20 08:37:14 Chat.Start called
+ui-debug: 2025/09/20 08:37:14 newModel called
+ui-debug: 2025/09/20 08:37:14 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:37:14 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:37:14 Bubbletea program starting.
+ui-debug: 2025/09/20 08:37:14 model.Init called
+ui-debug: 2025/09/20 08:37:18 Sending to Inputs channel: '/login vida 123'
+ui-debug: 2025/09/20 08:37:18 Received message from Outputs channel: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:37:18 Update received chatMsg: 'Login realizado com sucesso como vida'
+ui-debug: 2025/09/20 08:37:26 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:37:26 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:37:26 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:37:30 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:37:30 Received message from Outputs channel: 'Room created successfully! Room ID: 2'
+ui-debug: 2025/09/20 08:37:30 Update received chatMsg: 'Room created successfully! Room ID: 2'
+ui-debug: 2025/09/20 08:37:33 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:37:33 Received message from Outputs channel: 'Room created successfully! Room ID: 3'
+ui-debug: 2025/09/20 08:37:33 Update received chatMsg: 'Room created successfully! Room ID: 3'
+ui-debug: 2025/09/20 08:37:37 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:37:37 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:37:37 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:37:40 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:37:40 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:37:40 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:37:45 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:37:45 Received message from Outputs channel: 'A sala está cheia'
+ui-debug: 2025/09/20 08:37:45 Update received chatMsg: 'A sala está cheia'
+ui-debug: 2025/09/20 08:37:52 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:37:52 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:52 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:37:56 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:37:56 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:37:56 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:37:56 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:37:56 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:38:04 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:38:04 Received message from Outputs channel: 'You bought a card package: rock (4 stars), paper (3 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:38:04 Update received chatMsg: 'You bought a card package: rock (4 stars), paper (3 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:38:06 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:38:06 Received message from Outputs channel: 'You bought a card package: rock (2 stars), paper (5 stars), scissors (2 stars).'
+ui-debug: 2025/09/20 08:38:06 Update received chatMsg: 'You bought a card package: rock (2 stars), paper (5 stars), scissors (2 stars).'
+ui-debug: 2025/09/20 08:38:10 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:38:10 Received message from Outputs channel: 'You bought a card package: rock (5 stars), paper (4 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 08:38:10 Update received chatMsg: 'You bought a card package: rock (5 stars), paper (4 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 08:38:23 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 08:38:23 Received message from Outputs channel: 'Your cards: scissors (2 stars), rock (2 stars), paper (5 stars)'
+ui-debug: 2025/09/20 08:38:23 Update received chatMsg: 'Your cards: scissors (2 stars), rock (2 stars), paper (5 stars)'
+ui-debug: 2025/09/20 08:38:25 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 08:38:25 Received message from Outputs channel: 'Your cards: rock (4 stars), paper (3 stars), scissors (4 stars)'
+ui-debug: 2025/09/20 08:38:25 Update received chatMsg: 'Your cards: rock (4 stars), paper (3 stars), scissors (4 stars)'
+ui-debug: 2025/09/20 08:38:27 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 08:38:27 Received message from Outputs channel: 'Your cards: rock (5 stars), paper (4 stars), scissors (1 stars)'
+ui-debug: 2025/09/20 08:38:27 Update received chatMsg: 'Your cards: rock (5 stars), paper (4 stars), scissors (1 stars)'
+ui-debug: 2025/09/20 08:38:45 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:38:45 Received message from Outputs channel: 'You played a rock card with 2 stars.'
+ui-debug: 2025/09/20 08:38:45 Update received chatMsg: 'You played a rock card with 2 stars.'
+ui-debug: 2025/09/20 08:38:54 Sending to Inputs channel: '/scissors'
+ui-debug: 2025/09/20 08:38:54 Received message from Outputs channel: 'Comando desconhecido: scissors'
+ui-debug: 2025/09/20 08:38:54 Update received chatMsg: 'Comando desconhecido: scissors'
+ui-debug: 2025/09/20 08:38:55 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:38:55 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:39:04 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:39:04 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:04 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:07 Sending to Inputs channel: '/play scissors'
+ui-debug: 2025/09/20 08:39:07 Received message from Outputs channel: 'You played a scissors card with 4 stars.'
+ui-debug: 2025/09/20 08:39:07 Update received chatMsg: 'You played a scissors card with 4 stars.'
+ui-debug: 2025/09/20 08:39:07 Received message from Outputs channel: 'Opponent played a rock card with 2 stars.'
+ui-debug: 2025/09/20 08:39:07 Received message from Outputs channel: 'You lose this round!'
+ui-debug: 2025/09/20 08:39:07 Update received chatMsg: 'Opponent played a rock card with 2 stars.'
+ui-debug: 2025/09/20 08:39:07 Update received chatMsg: 'You lose this round!'
+ui-debug: 2025/09/20 08:39:13 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:39:13 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:13 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:18 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:39:18 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:18 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:21 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:39:21 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:39:21 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:39:23 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:39:23 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:23 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:39:29 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:39:29 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:29 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:31 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:39:31 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:31 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:36 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:39:36 Chat.Close called
+ui-debug: 2025/09/20 08:39:36 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:39:36 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:39:36 Bubbletea program finished.
+ui-debug: 2025/09/20 08:39:36 Closing Done channel.
+ui-debug: 2025/09/20 08:39:41 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:39:41 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:41 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:46 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:39:46 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:46 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:47 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:39:47 Chat.Close called
+ui-debug: 2025/09/20 08:39:47 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:39:47 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:39:47 Bubbletea program finished.
+ui-debug: 2025/09/20 08:39:47 Closing Done channel.
+ui-debug: 2025/09/20 08:39:51 Sending to Inputs channel: '/leave'
+ui-debug: 2025/09/20 08:39:51 Received message from Outputs channel: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:51 Update received chatMsg: 'Successfully left room 1'
+ui-debug: 2025/09/20 08:39:52 Sending to Inputs channel: '/logout'
+ui-debug: 2025/09/20 08:39:52 Received message from Outputs channel: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:52 Update received chatMsg: 'Logout realizado com sucesso.'
+ui-debug: 2025/09/20 08:39:59 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:39:59 Chat.Close called
+ui-debug: 2025/09/20 08:39:59 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:39:59 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:39:59 Bubbletea program finished.
+ui-debug: 2025/09/20 08:39:59 Closing Done channel.
+ui-debug: 2025/09/20 08:41:29 NewChat called
+ui-debug: 2025/09/20 08:41:29 Chat.Start called
+ui-debug: 2025/09/20 08:41:29 newModel called
+ui-debug: 2025/09/20 08:41:29 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:41:29 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:41:29 Bubbletea program starting.
+ui-debug: 2025/09/20 08:41:29 model.Init called
+ui-debug: 2025/09/20 08:41:31 NewChat called
+ui-debug: 2025/09/20 08:41:31 Chat.Start called
+ui-debug: 2025/09/20 08:41:31 newModel called
+ui-debug: 2025/09/20 08:41:31 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:41:31 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:41:31 Bubbletea program starting.
+ui-debug: 2025/09/20 08:41:31 model.Init called
+ui-debug: 2025/09/20 08:41:38 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 08:41:38 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:41:38 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:41:43 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 08:41:43 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:41:43 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:41:46 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 08:41:46 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:41:46 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:41:49 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 08:41:49 Received message from Outputs channel: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:41:49 Update received chatMsg: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:42:00 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:42:00 Received message from Outputs channel: 'Room created successfully! Room ID: 4'
+ui-debug: 2025/09/20 08:42:00 Update received chatMsg: 'Room created successfully! Room ID: 4'
+ui-debug: 2025/09/20 08:42:09 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:42:09 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:42:09 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:42:13 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:42:13 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:42:13 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:42:23 Sending to Inputs channel: '/cards'
+ui-debug: 2025/09/20 08:42:23 Received message from Outputs channel: 'Your cards: scissors (1 stars), rock (1 stars), paper (1 stars)'
+ui-debug: 2025/09/20 08:42:23 Update received chatMsg: 'Your cards: scissors (1 stars), rock (1 stars), paper (1 stars)'
+ui-debug: 2025/09/20 08:42:26 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:42:26 Received message from Outputs channel: 'You bought a card package: rock (1 stars), paper (3 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:42:26 Update received chatMsg: 'You bought a card package: rock (1 stars), paper (3 stars), scissors (4 stars).'
+ui-debug: 2025/09/20 08:42:28 Sending to Inputs channel: '/buy'
+ui-debug: 2025/09/20 08:42:28 Received message from Outputs channel: 'You bought a card package: rock (5 stars), paper (1 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 08:42:28 Update received chatMsg: 'You bought a card package: rock (5 stars), paper (1 stars), scissors (1 stars).'
+ui-debug: 2025/09/20 08:42:35 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:42:35 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:42:35 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:43:03 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:43:03 Chat.Close called
+ui-debug: 2025/09/20 08:43:03 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:43:03 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:43:03 Bubbletea program finished.
+ui-debug: 2025/09/20 08:43:03 Closing Done channel.
+ui-debug: 2025/09/20 08:43:05 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:43:05 Chat.Close called
+ui-debug: 2025/09/20 08:43:05 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:43:05 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:43:05 Bubbletea program finished.
+ui-debug: 2025/09/20 08:43:05 Closing Done channel.
+ui-debug: 2025/09/20 08:43:09 NewChat called
+ui-debug: 2025/09/20 08:43:09 Chat.Start called
+ui-debug: 2025/09/20 08:43:09 newModel called
+ui-debug: 2025/09/20 08:43:09 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:09 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:09 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:09 model.Init called
+ui-debug: 2025/09/20 08:43:11 NewChat called
+ui-debug: 2025/09/20 08:43:11 Chat.Start called
+ui-debug: 2025/09/20 08:43:11 newModel called
+ui-debug: 2025/09/20 08:43:11 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:11 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:11 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:11 model.Init called
+ui-debug: 2025/09/20 08:43:17 NewChat called
+ui-debug: 2025/09/20 08:43:17 Chat.Start called
+ui-debug: 2025/09/20 08:43:17 newModel called
+ui-debug: 2025/09/20 08:43:17 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:17 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:17 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:17 model.Init called
+ui-debug: 2025/09/20 08:43:22 NewChat called
+ui-debug: 2025/09/20 08:43:22 Chat.Start called
+ui-debug: 2025/09/20 08:43:22 newModel called
+ui-debug: 2025/09/20 08:43:22 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:22 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:22 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:22 model.Init called
+ui-debug: 2025/09/20 08:43:23 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:43:23 Chat.Close called
+ui-debug: 2025/09/20 08:43:23 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:43:23 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:43:23 Bubbletea program finished.
+ui-debug: 2025/09/20 08:43:23 Closing Done channel.
+ui-debug: 2025/09/20 08:43:30 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:43:30 Chat.Close called
+ui-debug: 2025/09/20 08:43:30 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:43:30 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:43:30 Bubbletea program finished.
+ui-debug: 2025/09/20 08:43:30 Closing Done channel.
+ui-debug: 2025/09/20 08:43:38 NewChat called
+ui-debug: 2025/09/20 08:43:38 Chat.Start called
+ui-debug: 2025/09/20 08:43:38 newModel called
+ui-debug: 2025/09/20 08:43:38 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:38 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:38 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:38 model.Init called
+ui-debug: 2025/09/20 08:43:41 NewChat called
+ui-debug: 2025/09/20 08:43:41 Chat.Start called
+ui-debug: 2025/09/20 08:43:41 newModel called
+ui-debug: 2025/09/20 08:43:41 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 08:43:41 periodicFetch goroutine started.
+ui-debug: 2025/09/20 08:43:41 Bubbletea program starting.
+ui-debug: 2025/09/20 08:43:41 model.Init called
+ui-debug: 2025/09/20 08:43:47 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 08:43:47 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:43:47 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:43:50 Sending to Inputs channel: '/register ivad 123'
+ui-debug: 2025/09/20 08:43:50 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:43:50 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 08:43:55 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 08:43:55 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:43:55 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 08:43:59 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 08:43:59 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:43:59 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 08:44:03 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:44:03 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:44:03 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:44:07 Sending to Inputs channel: '/login ivad 123'
+ui-debug: 2025/09/20 08:44:07 Received message from Outputs channel: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:44:07 Update received chatMsg: 'Login realizado com sucesso como ivad'
+ui-debug: 2025/09/20 08:44:09 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 08:44:09 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:44:09 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 08:44:15 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:44:15 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:44:15 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:44:25 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:44:25 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 08:44:28 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:44:28 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:44:28 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:46:30 Sending to Inputs channel: 'play rock 123'
+ui-debug: 2025/09/20 08:46:30 Received message from Outputs channel: 'davi: play rock 123'
+ui-debug: 2025/09/20 08:46:30 Update received chatMsg: 'davi: play rock 123'
+ui-debug: 2025/09/20 08:46:35 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:46:35 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:46:35 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:46:35 Received message from Outputs channel: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:46:35 Update received chatMsg: 'Opponent played a rock card with 1 stars.'
+ui-debug: 2025/09/20 08:46:35 Received message from Outputs channel: 'This round is a tie!'
+ui-debug: 2025/09/20 08:46:35 Update received chatMsg: 'This round is a tie!'
+ui-debug: 2025/09/20 08:46:42 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 08:46:42 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:46:42 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 08:47:04 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 08:47:04 Chat.Close called
+ui-debug: 2025/09/20 08:47:04 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 08:47:04 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 08:47:04 Bubbletea program finished.
+ui-debug: 2025/09/20 08:47:04 Closing Done channel.
+ui-debug: 2025/09/20 11:53:16 NewChat called
+ui-debug: 2025/09/20 11:53:16 Chat.Start called
+ui-debug: 2025/09/20 11:53:16 newModel called
+ui-debug: 2025/09/20 11:53:16 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 11:53:16 periodicFetch goroutine started.
+ui-debug: 2025/09/20 11:53:16 Bubbletea program starting.
+ui-debug: 2025/09/20 11:53:16 model.Init called
+ui-debug: 2025/09/20 11:53:24 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 11:53:24 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 11:53:24 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 11:53:30 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 11:53:30 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 11:53:30 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 11:53:36 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 11:53:36 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 11:53:36 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 11:53:40 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 11:53:40 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 11:53:40 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 11:53:48 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 11:53:48 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 11:53:48 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 11:53:58 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 11:53:58 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 11:54:04 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 11:54:04 Received message from Outputs channel: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 11:54:04 Update received chatMsg: 'jogador já jogou neste turno'
+ui-debug: 2025/09/20 12:01:49 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 12:01:49 Chat.Close called
+ui-debug: 2025/09/20 12:01:49 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 12:01:49 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 12:01:49 Bubbletea program finished.
+ui-debug: 2025/09/20 12:01:49 Closing Done channel.
+ui-debug: 2025/09/20 12:10:25 NewChat called
+ui-debug: 2025/09/20 12:10:25 Chat.Start called
+ui-debug: 2025/09/20 12:10:25 newModel called
+ui-debug: 2025/09/20 12:10:25 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 12:10:25 periodicFetch goroutine started.
+ui-debug: 2025/09/20 12:10:25 Bubbletea program starting.
+ui-debug: 2025/09/20 12:10:25 model.Init called
+ui-debug: 2025/09/20 12:10:33 Sending to Inputs channel: '/register davi 123'
+ui-debug: 2025/09/20 12:10:33 Received message from Outputs channel: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 12:10:33 Update received chatMsg: 'Registro realizado com sucesso!'
+ui-debug: 2025/09/20 12:10:37 Sending to Inputs channel: '/login davi 123'
+ui-debug: 2025/09/20 12:10:37 Received message from Outputs channel: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 12:10:37 Update received chatMsg: 'Login realizado com sucesso como davi'
+ui-debug: 2025/09/20 12:10:39 Sending to Inputs channel: '/create'
+ui-debug: 2025/09/20 12:10:39 Received message from Outputs channel: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 12:10:39 Update received chatMsg: 'Room created successfully! Room ID: 1'
+ui-debug: 2025/09/20 12:10:42 Sending to Inputs channel: '/join 1'
+ui-debug: 2025/09/20 12:10:42 Received message from Outputs channel: 'Successfully joined room 1'
+ui-debug: 2025/09/20 12:10:42 Update received chatMsg: 'Successfully joined room 1'
+ui-debug: 2025/09/20 12:10:49 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 12:10:49 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 12:10:49 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 12:10:59 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 12:10:59 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 12:11:04 Sending to Inputs channel: '/play rock'
+ui-debug: 2025/09/20 12:11:04 Received message from Outputs channel: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 12:11:04 Update received chatMsg: 'You played a rock card with 1 stars.'
+ui-debug: 2025/09/20 12:11:14 Received message from Outputs channel: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 12:11:14 Update received chatMsg: 'Failed to get opponent's card after multiple attempts.'
+ui-debug: 2025/09/20 12:19:20 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 12:19:20 Chat.Close called
+ui-debug: 2025/09/20 12:19:20 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 12:19:20 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 12:19:20 Bubbletea program finished.
+ui-debug: 2025/09/20 12:19:20 Closing Done channel.
+ui-debug: 2025/09/20 14:09:04 NewChat called
+ui-debug: 2025/09/20 14:09:04 Chat.Start called
+ui-debug: 2025/09/20 14:09:04 newModel called
+ui-debug: 2025/09/20 14:09:04 periodicFetch goroutine started.
+ui-debug: 2025/09/20 14:09:04 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 14:09:04 Bubbletea program starting.
+ui-debug: 2025/09/20 14:09:04 model.Init called
+ui-debug: 2025/09/20 14:09:17 NewChat called
+ui-debug: 2025/09/20 14:09:17 Chat.Start called
+ui-debug: 2025/09/20 14:09:17 newModel called
+ui-debug: 2025/09/20 14:09:17 periodicFetch goroutine started.
+ui-debug: 2025/09/20 14:09:17 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 14:09:17 Bubbletea program starting.
+ui-debug: 2025/09/20 14:09:17 model.Init called
+ui-debug: 2025/09/20 14:10:45 NewChat called
+ui-debug: 2025/09/20 14:10:45 Chat.Start called
+ui-debug: 2025/09/20 14:10:45 newModel called
+ui-debug: 2025/09/20 14:10:45 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 14:10:45 periodicFetch goroutine started.
+ui-debug: 2025/09/20 14:10:45 Bubbletea program starting.
+ui-debug: 2025/09/20 14:10:45 model.Init called
+ui-debug: 2025/09/20 14:11:35 NewChat called
+ui-debug: 2025/09/20 14:11:35 Chat.Start called
+ui-debug: 2025/09/20 14:11:35 newModel called
+ui-debug: 2025/09/20 14:11:35 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 14:11:35 periodicFetch goroutine started.
+ui-debug: 2025/09/20 14:11:35 Bubbletea program starting.
+ui-debug: 2025/09/20 14:11:35 model.Init called
+ui-debug: 2025/09/20 14:11:38 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 14:11:38 Chat.Close called
+ui-debug: 2025/09/20 14:11:38 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 14:11:38 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 14:11:38 Bubbletea program finished.
+ui-debug: 2025/09/20 14:11:38 Closing Done channel.
+ui-debug: 2025/09/20 14:11:58 NewChat called
+ui-debug: 2025/09/20 14:11:58 Chat.Start called
+ui-debug: 2025/09/20 14:11:58 newModel called
+ui-debug: 2025/09/20 14:11:58 periodicFetch goroutine started.
+ui-debug: 2025/09/20 14:11:58 listenToOutputs goroutine started.
+ui-debug: 2025/09/20 14:11:58 Bubbletea program starting.
+ui-debug: 2025/09/20 14:11:58 model.Init called
+ui-debug: 2025/09/20 14:12:00 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/20 14:12:00 Chat.Close called
+ui-debug: 2025/09/20 14:12:00 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/20 14:12:00 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/20 14:12:00 Bubbletea program finished.
+ui-debug: 2025/09/20 14:12:00 Closing Done channel.

@@ -1,0 +1,57 @@
+package ui
+
+import (
+	"bufio"
+	"client-of-hope/internal/state"
+	"fmt"
+	"log"
+	"os"
+	"time"
+)
+
+type Chat struct {
+	Outputs chan string
+	Inputs  chan string
+	Reader  *bufio.Reader
+}
+
+func NewChat() *Chat {
+	return &Chat{
+		Outputs: make(chan string, 100),
+		Inputs:  make(chan string, 100),
+		Reader:  bufio.NewReaderSize(os.Stdin, 4096),
+	}
+}
+
+func (chat *Chat) WriteLoop() {
+	for output := range chat.Outputs {
+		fmt.Println()
+		fmt.Println(output)
+		fmt.Printf("%s> ", state.Username)
+	}
+}
+
+func (chat *Chat) ReadLoop() {
+	for {
+		input, err := chat.Reader.ReadString('\n')
+		if err != nil {
+			log.Println("Error reading input:", err)
+			continue
+		}
+		chat.Inputs <- input
+	}
+}
+
+func (chat *Chat) Start() {
+	go chat.WriteLoop()
+	go chat.ReadLoop()
+	go func() {
+		for {
+			if state.UserID != "" && state.RoomID != "" {
+				chat.Inputs <- "/fetch"
+			}
+			time.Sleep(1 * time.Second)
+		}
+	}()
+
+}
