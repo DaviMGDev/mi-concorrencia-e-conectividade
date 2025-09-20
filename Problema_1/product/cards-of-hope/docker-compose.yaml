@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+
+  server-of-hope:
+    build:
+      context: ./server-of-hope
+    container_name: server-of-hope
+    ports:
+      - "8080:8080"
+    networks:
+      - cardsnet
+    entrypoint: ["/app/server"]
+
+  client-of-hope:
+    build:
+      context: ./client-of-hope
+    container_name: client-of-hope
+    environment:
+      - SERVER_ADDR=server-of-hope:8080
+    networks:
+      - cardsnet
+    entrypoint: ["/app/client"]
+    stdin_open: true
+    tty: true
+
+  stress-client-of-hope:
+    build:
+      context: ./stress-client-of-hope
+    container_name: stress-client-of-hope
+    environment:
+      - SERVER_ADDR=server-of-hope:8080
+    networks:
+      - cardsnet
+    entrypoint: ["/app/stress-client"]
+
+networks:
+  cardsnet:
+    driver: bridge
