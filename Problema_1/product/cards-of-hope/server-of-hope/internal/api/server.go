@@ -101,6 +101,9 @@ func (server *Server) getRequests(client *Client) {
 	defer func() {
 		client.Close()
 		server.Clients.Delete(client.Address)
+		if client.UserID != "" {
+			state.UserConnections.Delete(client.UserID)
+		}
 		state.Logger.Info("Client disconnected", "address", client.Address)
 	}()
 	for {

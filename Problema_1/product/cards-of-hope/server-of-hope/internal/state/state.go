@@ -4,6 +4,7 @@ import (
 	"server-of-hope/internal/application"
 	"server-of-hope/internal/data"
 	"server-of-hope/internal/domain"
+	"server-of-hope/internal/utils"
 )
 
 // Initialize inicializa os repositórios e serviços globais do servidor.
@@ -14,6 +15,7 @@ func Initialize() {
 	RoomRepository = data.NewInMemoryRepository[domain.Room]()
 	StoreService = application.NewStoreService()
 	GameRepository = data.NewInMemoryRepository[domain.Game]()
+	UserConnections = utils.NewMap[string, string]()
 
 	AuthService = application.NewAuthService(UserRepository)
 	RoomService = application.NewRoomService(RoomRepository)

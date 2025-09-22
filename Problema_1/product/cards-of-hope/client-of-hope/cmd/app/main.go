@@ -47,7 +47,6 @@ func main() {
 	defer state.CloseLogger()
 
 	chat := ui.NewChat()
-	chat.Start()
 
 	serverAddress := getServerAddress()
 	client := api.NewClient(serverAddress)
@@ -57,6 +56,8 @@ func main() {
 		chat.Outputs <- "Falha ao conectar ao servidor. Por favor, certifique-se de que o servidor está em execução."
 		os.Exit(1)
 	}
+	
+	chat.Start()
 	defer client.Close()
 
 	router := application.NewRouter(client, chat)
@@ -88,6 +89,10 @@ func main() {
 	router.AddRoute("help", handlers.HandleHelp)
 
 	router.Start()
+
+	serverRouter := application.NewServerRouter(client, chat)
+	serverRouter.AddRoute("opponent_played", handlers.HandleOpponentPlayed)
+	serverRouter.Start()
 
 	// Mantém a goroutine principal viva aguardando o sinal de conclusão do chat.
 	<-chat.Done
