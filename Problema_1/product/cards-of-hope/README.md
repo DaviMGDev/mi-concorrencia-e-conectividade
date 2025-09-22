@@ -268,12 +268,6 @@ Toda comunicação entre cliente e servidor é feita via TCP, utilizando mensage
 > docker-compose run --rm -e SERVER_ADDR=10.0.1.2:8080 client-of-hope
 > ```
 >
-> Ou, se rodando localmente:
->
-> ```bash
-> SERVER_ADDR=10.0.1.2:8080 go run cmd/app/main.go
-> ```
->
 > O IP pode ser obtido com o comando `hostname --all-ip-addresses` na máquina do servidor. Não use nomes de serviço Docker (ex: `server-of-hope`) se não estiver usando a mesma rede Docker.
 
 ### Pré-requisitos
@@ -346,29 +340,6 @@ O cliente de estresse (`stress-client-of-hope`) aceita argumentos via linha de c
 - `-interval` — Intervalo entre pings em milissegundos (padrão: `100`)
 - `-duration` — Duração do teste em segundos (padrão: `10`)
 - `-onlyconn` — Se definido, testa apenas o limite de conexões simultâneas, sem enviar comandos (padrão: `false`)
-
-##### Exemplos de uso:
-
-**1. Teste padrão de estresse (pings):**
-```bash
-docker-compose run --rm -e SERVER_ADDR=<IP_DO_SERVIDOR>:8080 stress-client-of-hope
-```
-Ou, para customizar:
-```bash
-docker-compose run --rm -e SERVER_ADDR=<IP_DO_SERVIDOR>:8080 stress-client-of-hope -clients 500 -interval 50 -duration 30
-```
-
-**2. Testar apenas o limite de conexões simultâneas:**
-```bash
-docker-compose run --rm -e SERVER_ADDR=<IP_DO_SERVIDOR>:8080 stress-client-of-hope -clients 1000 -onlyconn
-```
-
-**3. Execução direta via Go:**
-```bash
-SERVER_ADDR=<IP_DO_SERVIDOR>:8080 go run main.go -clients 200 -duration 20
-```
-
-Se precisar de mais detalhes sobre cada argumento, consulte o código-fonte ou utilize a flag `-h` para ajuda.
 
 ### Comandos do Jogo
 
