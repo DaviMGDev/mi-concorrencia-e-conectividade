@@ -47,7 +47,6 @@ func main() {
 	defer state.CloseLogger()
 
 	chat := ui.NewChat()
-	chat.Start()
 
 	serverAddress := getServerAddress()
 	client := api.NewClient(serverAddress)
@@ -57,6 +56,8 @@ func main() {
 		chat.Outputs <- "Falha ao conectar ao servidor. Por favor, certifique-se de que o servidor está em execução."
 		os.Exit(1)
 	}
+	
+	chat.Start()
 	defer client.Close()
 
 	router := application.NewRouter(client, chat)

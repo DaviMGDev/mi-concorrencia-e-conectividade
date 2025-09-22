@@ -2296,3 +2296,16 @@ ui-debug: 2025/09/20 14:12:00 Received message from Outputs channel: 'Disconnect
 ui-debug: 2025/09/20 14:12:00 listenToOutputs goroutine stopping.
 ui-debug: 2025/09/20 14:12:00 Bubbletea program finished.
 ui-debug: 2025/09/20 14:12:00 Closing Done channel.
+ui-debug: 2025/09/21 22:13:03 NewChat called
+ui-debug: 2025/09/21 22:13:03 Chat.Start called
+ui-debug: 2025/09/21 22:13:03 newModel called
+ui-debug: 2025/09/21 22:13:03 periodicFetch goroutine started.
+ui-debug: 2025/09/21 22:13:03 listenToOutputs goroutine started.
+ui-debug: 2025/09/21 22:13:03 Bubbletea program starting.
+ui-debug: 2025/09/21 22:13:03 model.Init called
+ui-debug: 2025/09/21 22:13:06 Sending to Inputs channel: '/quit'
+ui-debug: 2025/09/21 22:13:06 Chat.Close called
+ui-debug: 2025/09/21 22:13:06 Received message from Outputs channel: 'Disconnecting...'
+ui-debug: 2025/09/21 22:13:06 listenToOutputs goroutine stopping.
+ui-debug: 2025/09/21 22:13:06 Bubbletea program finished.
+ui-debug: 2025/09/21 22:13:06 Closing Done channel.
