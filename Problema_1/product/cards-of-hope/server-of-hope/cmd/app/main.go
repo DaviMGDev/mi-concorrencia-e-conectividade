@@ -41,7 +41,6 @@ func main() {
 	router.AddRoute("fetch", handlers.HandleFetchMessage)
 
 	router.AddRoute("play", handlers.HandlePlayCard)
-	router.AddRoute("get_opponent_card", handlers.HandleGetOpponentCard)
 
 	router.AddRoute("buy", handlers.HandleBuyPackage)
 

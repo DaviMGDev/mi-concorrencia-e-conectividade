@@ -8,40 +8,13 @@ import (
 )
 
 // GameServiceInterface descreve as operações para manipulação da lógica do jogo.
-//
-// Métodos:
-//   - PlayCard: registra a jogada de um jogador.
-//   - GetOpponentCard: retorna a carta do oponente.
 type GameServiceInterface interface {
-	// PlayCard registra a jogada de um jogador em uma partida.
-	//
-	// Parâmetros:
-	//   - gameID: identificador da partida.
-	//   - playerID: identificador do jogador.
-	//   - card: carta jogada pelo jogador.
-	//
-	// Retorno:
-	//   - erro caso a jogada seja inválida ou não possa ser registrada.
 	PlayCard(gameID string, playerID string, card domain.Card) error
-
-	// GetOpponentCard retorna a carta jogada pelo oponente.
-	//
-	// Parâmetros:
-	//   - gameID: identificador da partida.
-	//   - playerID: identificador do jogador.
-	//
-	// Retorno:
-	//   - Card: carta do oponente.
-	//   - erro caso o oponente não tenha jogado ou haja falha na busca.
-	GetOpponentCard(gameID string, playerID string) (domain.Card, error)
+	GetGame(gameID string) (domain.Game, error)
+	ResetRound(gameID string) error
 }
 
 // GameService implementa a lógica do jogo, incluindo jogadas e controle de estado.
-//
-// Campos:
-//   - gameRepo: repositório das partidas.
-//   - userRepo: repositório dos usuários.
-//   - roomRepo: repositório das salas.
 type GameService struct {
 	gameRepo data.RepositoryInterface[domain.Game]
 	userRepo data.RepositoryInterface[domain.User]
@@ -49,14 +22,6 @@ type GameService struct {
 }
 
 // NewGameService cria uma nova instância de GameService.
-//
-// Parâmetros:
-//   - gameRepo: repositório das partidas.
-//   - userRepo: repositório dos usuários.
-//   - roomRepo: repositório das salas.
-//
-// Retorno:
-//   - ponteiro para GameService.
 func NewGameService(
 	gameRepo data.RepositoryInterface[domain.Game],
 	userRepo data.RepositoryInterface[domain.User],
@@ -70,13 +35,6 @@ func NewGameService(
 }
 
 // getOrCreateGame busca uma partida existente ou cria uma nova se não existir.
-//
-// Parâmetros:
-//   - gameID: identificador da partida.
-//
-// Retorno:
-//   - Game: partida encontrada ou criada.
-//   - erro caso não seja possível buscar ou criar a partida.
 func (s *GameService) getOrCreateGame(gameID string) (domain.Game, error) {
 	game, err := s.gameRepo.Read(gameID)
 	if err != nil {
@@ -107,15 +65,11 @@ func (s *GameService) getOrCreateGame(gameID string) (domain.Game, error) {
 	return game, nil
 }
 
+func (s *GameService) GetGame(gameID string) (domain.Game, error) {
+	return s.gameRepo.Read(gameID)
+}
+
 // PlayCard registra a jogada de um jogador em uma partida, validando a carta e o estado do jogo.
-//
-// Parâmetros:
-//   - gameID: identificador da partida.
-//   - playerID: identificador do jogador.
-//   - card: carta jogada pelo jogador.
-//
-// Retorno:
-//   - erro caso a jogada seja inválida ou não possa ser registrada.
 func (s *GameService) PlayCard(gameID string, playerID string, card domain.Card) error {
 	if card.Type != "rock" && card.Type != "paper" && card.Type != "scissors" {
 		return errors.New("tipo de carta inválido")
@@ -155,64 +109,16 @@ func (s *GameService) PlayCard(gameID string, playerID string, card domain.Card)
 	return s.gameRepo.Update(gameID, game)
 }
 
-// GetOpponentCard retorna a carta jogada pelo oponente, se disponível, e atualiza o estado do jogo.
-//
-// Parâmetros:
-//   - gameID: identificador da partida.
-//   - playerID: identificador do jogador.
-//
-// Retorno:
-//   - Card: carta do oponente.
-//   - erro caso o oponente não tenha jogado ou haja falha na busca.
-func (s *GameService) GetOpponentCard(gameID string, playerID string) (domain.Card, error) {
+// ResetRound redefine o estado de uma partida para o próximo turno.
+func (s *GameService) ResetRound(gameID string) error {
 	game, err := s.gameRepo.Read(gameID)
 	if err != nil {
-		return domain.Card{}, err
+		return err
 	}
 
-	if _, exists := game.Plays.Get(playerID); !exists {
-		return domain.Card{}, errors.New("jogador ainda não jogou")
-	}
+	game.Plays.Clear()
+	game.ResultsSeenBy.Clear()
+	game.FailedAttempts = utils.NewMap[string, int]()
 
-	var opponentCard domain.Card
-	var opponentID string
-
-	game.Plays.ForEach(func(id string, card domain.Card) {
-		if id != playerID {
-			opponentID = id
-			opponentCard = card
-		}
-	})
-
-	if opponentID == "" {
-		// Incrementa tentativas frustradas
-		attempts, _ := game.FailedAttempts.Get(playerID)
-		attempts++
-		game.FailedAttempts.Set(playerID, attempts)
-		if attempts >= 3 {
-			// Reseta jogada e tentativas para o jogador
-			game.Plays.Delete(playerID)
-			game.FailedAttempts.Set(playerID, 0)
-			s.gameRepo.Update(gameID, game)
-			return domain.Card{}, errors.New("oponente ainda não jogou. Seu turno foi resetado após 3 tentativas. Jogue novamente.")
-		}
-		s.gameRepo.Update(gameID, game)
-		return domain.Card{}, errors.New("oponente ainda não jogou")
-	}
-
-	game.ResultsSeenBy.Add(playerID)
-	// Resetar tentativas frustradas ao sucesso
-	game.FailedAttempts.Set(playerID, 0)
-	if game.ResultsSeenBy.Size() >= 2 {
-		game.Plays.Clear()
-		game.ResultsSeenBy.Clear()
-		// Limpa tentativas frustradas de todos
-		game.FailedAttempts = utils.NewMap[string, int]()
-	}
-
-	if err := s.gameRepo.Update(gameID, game); err != nil {
-		return domain.Card{}, err
-	}
-
-	return opponentCard, nil
+	return s.gameRepo.Update(gameID, game)
 }

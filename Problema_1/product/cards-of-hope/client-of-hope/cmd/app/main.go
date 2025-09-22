@@ -90,6 +90,10 @@ func main() {
 
 	router.Start()
 
+	serverRouter := application.NewServerRouter(client, chat)
+	serverRouter.AddRoute("opponent_played", handlers.HandleOpponentPlayed)
+	serverRouter.Start()
+
 	// Mantém a goroutine principal viva aguardando o sinal de conclusão do chat.
 	<-chat.Done
 }

@@ -27,13 +27,6 @@ func HandlePlay(client *api.Client, chat *ui.Chat, args []string) {
 	if !playCard(client, chat, cardToPlay, stars) {
 		return
 	}
-
-	if !getOpponentCard(client, chat) {
-		return
-	}
-
-	determineWinner(chat)
-	resetRound()
 }
 
 func HandleBuy(client *api.Client, chat *ui.Chat, args []string) {

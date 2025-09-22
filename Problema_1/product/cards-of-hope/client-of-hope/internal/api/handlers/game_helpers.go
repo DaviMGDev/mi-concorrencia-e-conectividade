@@ -8,7 +8,6 @@ import (
 	"client-of-hope/internal/utils"
 	"fmt"
 	"strings"
-	"time"
 )
 
 func validatePlay(chat *ui.Chat, args []string) (string, int, bool) {
@@ -52,43 +51,6 @@ func playCard(client *api.Client, chat *ui.Chat, cardToPlay string, stars int) b
 	chat.Outputs <- fmt.Sprintf("You played a %s card with %d stars.", cardToPlay, stars)
 	state.PlayedCard = cardToPlay
 	state.PlayedCardStar = stars
-	return true
-}
-
-func getOpponentCard(client *api.Client, chat *ui.Chat) bool {
-	getOpponentCardRequest := protocol.Request{
-		Method: "get_opponent_card",
-		Data:   utils.Dict{"user_id": state.UserID, "room_id": state.RoomID},
-	}
-
-	var opponentCardResponse protocol.Response
-	var err error
-	for i := 0; i < 10; i++ {
-		opponentCardResponse, err = client.DoRequest(getOpponentCardRequest)
-		if err == nil && opponentCardResponse.Status == "ok" {
-			break
-		}
-		time.Sleep(1 * time.Second)
-	}
-
-	if err != nil || opponentCardResponse.Status != "ok" {
-		resetRound()
-		state.Log("Get opponent card request failed: %v", err)
-		chat.Outputs <- "Failed to get opponent's card after multiple attempts."
-		return false
-	}
-
-	opponentCard, cardOk := opponentCardResponse.Data["opponent_card"].(string)
-	opponentCardStar, starOk := opponentCardResponse.Data["opponent_card_star"].(float64)
-
-	if !cardOk || !starOk {
-		chat.Outputs <- "Invalid opponent card data from server."
-		return false
-	}
-
-	state.OpponentCard = opponentCard
-	state.OpponentCardStar = int(opponentCardStar)
-	chat.Outputs <- fmt.Sprintf("Opponent played a %s card with %d stars.", state.OpponentCard, state.OpponentCardStar)
 	return true
 }
 

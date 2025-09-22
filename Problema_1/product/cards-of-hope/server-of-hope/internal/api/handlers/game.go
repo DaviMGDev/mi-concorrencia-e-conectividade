@@ -10,7 +10,6 @@ import (
 
 func HandlePlayCard(server *api.Server, request protocol.Request) {
 	responder := NewResponder(server, request)
-	defer responder.Send()
 
 	userID, _ := request.Data["user_id"].(string)
 	gameID, _ := request.Data["room_id"].(string) // In client, it's room_id
@@ -19,6 +18,7 @@ func HandlePlayCard(server *api.Server, request protocol.Request) {
 
 	if userID == "" || gameID == "" || cardType == "" {
 		responder.SetError("Invalid parameters", "Card play failed", "from", request.From)
+		responder.Send()
 		return
 	}
 
@@ -30,34 +30,50 @@ func HandlePlayCard(server *api.Server, request protocol.Request) {
 	err := state.GameService.PlayCard(gameID, userID, card)
 	if err != nil {
 		responder.SetError(err.Error(), "Card play failed", "user_id", userID, "game_id", gameID, "error", err)
+		responder.Send()
 		return
 	}
 
 	data := utils.Dict{"message": "Card played successfully"}
 	responder.SetSuccess(data, "Card played successfully", "user_id", userID, "game_id", gameID, "card", cardType, "stars", cardStars)
+	responder.Send()
+
+	// Check if game is ready
+	game, err := state.GameService.GetGame(gameID)
+	if err != nil {
+		state.Logger.Error("Failed to get game state after play", "game_id", gameID, "error", err)
+		return
+	}
+
+	if game.Plays.Size() == 2 {
+		// Notify both players
+		playerIDs := game.Plays.Keys()
+		card1, _ := game.Plays.Get(playerIDs[0])
+		card2, _ := game.Plays.Get(playerIDs[1])
+
+		notifyPlayer(server, playerIDs[0], card2)
+		notifyPlayer(server, playerIDs[1], card1)
+
+		// Reset round
+		state.GameService.ResetRound(gameID)
+	}
 }
 
-func HandleGetOpponentCard(server *api.Server, request protocol.Request) {
-	responder := NewResponder(server, request)
-	defer responder.Send()
-
-	userID, _ := request.Data["user_id"].(string)
-	gameID, _ := request.Data["room_id"].(string) // In client, it's room_id
-
-	if userID == "" || gameID == "" {
-		responder.SetError("Invalid parameters", "Get opponent card failed", "from", request.From)
+func notifyPlayer(server *api.Server, playerID string, opponentCard domain.Card) {
+	playerAddress, ok := state.UserConnections.Get(playerID)
+	if !ok {
+		state.Logger.Warn("Could not find connection for user to notify", "user_id", playerID)
 		return
 	}
 
-	card, err := state.GameService.GetOpponentCard(gameID, userID)
-	if err != nil {
-		responder.SetError(err.Error(), "Get opponent card failed", "user_id", userID, "game_id", gameID, "error", err)
-		return
+	response := protocol.Response{
+		Method: "opponent_played",
+		Status: "ok",
+		Data: utils.Dict{
+			"opponent_card":      opponentCard.Type,
+			"opponent_card_star": opponentCard.Stars,
+		},
+		To: playerAddress,
 	}
-
-	data := utils.Dict{
-		"opponent_card":      card.Type,
-		"opponent_card_star": card.Stars,
-	}
-	responder.SetSuccess(data, "Card fetched successfully", "user_id", userID, "game_id", gameID)
+	server.Responses <- response
 }

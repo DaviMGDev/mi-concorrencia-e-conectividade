@@ -4,7 +4,11 @@ import (
 	"server-of-hope/internal/application"
 	"server-of-hope/internal/data"
 	"server-of-hope/internal/domain"
+	"server-of-hope/internal/utils"
 )
+
+// UserConnections armazena o mapeamento de userID para o endereço da conexão do cliente.
+var UserConnections *utils.Map[string, string]
 
 // AuthService fornece autenticação de usuários.
 var AuthService application.AuthServiceInterface

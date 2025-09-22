@@ -47,6 +47,12 @@ func HandleLoginUser(server *api.Server, request protocol.Request) {
 		return
 	}
 
+	client, exists := server.Clients.Get(request.From)
+	if exists {
+		client.UserID = userId
+		state.UserConnections.Set(userId, request.From)
+	}
+
 	data := utils.Dict{
 		"message": "User logged in successfully",
 		"user_id": userId,

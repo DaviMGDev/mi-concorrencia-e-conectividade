@@ -16,6 +16,7 @@ import (
 //   - Decoder: decodifica requisições JSON recebidas do cliente.
 type Client struct {
 	Address    string
+	UserID     string
 	Connection net.Conn
 	Encoder    *json.Encoder
 	Decoder    *json.Decoder
