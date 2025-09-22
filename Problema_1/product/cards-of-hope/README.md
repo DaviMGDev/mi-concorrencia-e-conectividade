@@ -385,6 +385,7 @@ Se precisar de mais detalhes sobre cada argumento, consulte o código-fonte ou u
 - `/whoami` – Exibir informações do usuário logado
 - `/whereami` – Exibir a sala em que você está
 - `/ping` – Verificar a conexão com o servidor
+- `/clear` – Limpar o histórico de mensagens do chat
 - `/help` – Exibir a lista de comandos disponíveis
 - `/quit` – Sair do aplicativo
 
