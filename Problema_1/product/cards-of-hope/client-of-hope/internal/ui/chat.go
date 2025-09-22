@@ -106,6 +106,12 @@ func (c *Chat) Close() {
 	}
 }
 
+func (c *Chat) Clear() {
+	if c.program != nil {
+		c.program.Send(clearHistoryMsg{}) // Envia a mensagem para limpar o histórico
+	}
+}
+
 // listenToOutputs escuta o canal Outputs e envia mensagens para a interface Bubble Tea.
 func (c *Chat) listenToOutputs() {
 	logToFile("listenToOutputs goroutine started.")
@@ -196,6 +202,8 @@ func (m model) Init() tea.Cmd {
 	return textarea.Blink
 }
 
+type clearHistoryMsg struct{}
+
 // Update processa eventos e atualiza o estado do modelo Bubble Tea.
 //
 // Parâmetros:
@@ -239,6 +247,10 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		m.viewport.Width = msg.Width
 		m.viewport.Height = msg.Height - m.textarea.Height()
 		m.textarea.SetWidth(msg.Width)
+
+	case clearHistoryMsg:
+		m.clearHistory()
+		return m, nil
 	}
 
 	return m, tea.Batch(tiCmd, vpCmd)
@@ -252,6 +264,11 @@ func (m *model) addHistory(msg string) {
 	m.history = append(m.history, msg)
 	m.viewport.SetContent(strings.Join(m.history, "\n"))
 	m.viewport.GotoBottom()
+}
+
+func (m *model) clearHistory() {
+	m.history = []string{}
+	m.viewport.SetContent("")
 }
 
 // View retorna a representação textual da interface de chat.

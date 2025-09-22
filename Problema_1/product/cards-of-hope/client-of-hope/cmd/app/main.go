@@ -84,9 +84,34 @@ func main() {
 	// Diversos
 	router.AddRoute("whoami", handlers.HandleWhoami)
 	router.AddRoute("whereami", handlers.HandleWhereami)
-	router.AddRoute("quit", handlers.HandleQuit)
+	router.AddRoute("clear", func(client *api.Client, chat *ui.Chat, args []string) {
+		chat.Clear()
+	})
+
+	router.AddRoute("quit", func(client *api.Client, chat *ui.Chat, args []string) {
+		chat.Outputs <- "Saindo do aplicativo..."
+		chat.Close()
+	})
 	router.AddRoute("ping", handlers.HandlePing)
-	router.AddRoute("help", handlers.HandleHelp)
+		router.AddRoute("help", func(client *api.Client, chat *ui.Chat, args []string) {
+		chat.Outputs <- "Comandos disponíveis:\n" +
+			"/register <usuario> <senha> - Registra um novo usuário\n" +
+			"/login <usuario> <senha> - Faz login\n" +
+			"/logout - Faz logout da sessão atual\n" +
+			"/create <nome_da_sala> - Cria uma nova sala de chat/jogo\n" +
+			"/join <nome_da_sala> - Entra em uma sala existente\n" +
+			"/leave - Sai da sala atual\n" +
+			"/send <mensagem> - Envia mensagem para a sala atual (ou apenas digite a mensagem sem /)" +
+			"\n/play <carta> - Joga uma carta (rock, paper ou scissors)" +
+			"\n/cards - Mostra suas cartas atuais" +
+			"\n/buy - Compra um novo pacote de cartas" +
+			"\n/whoami - Exibe informações do usuário logado" +
+			"\n/whereami - Exibe a sala em que você está" +
+			"\n/ping - Verifica a conexão com o servidor" +
+			"\n/clear - Limpa o histórico de mensagens do chat" +
+			"\n/help - Exibe a lista de comandos disponíveis" +
+			"\n/quit - Sai do aplicativo"
+	})
 
 	router.Start()
 
